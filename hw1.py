@@ -105,4 +105,4 @@ while total_owed >= 0:
     
 print('You will have to pay your loans for '+ str(counter_month)+' months')
 
-print('In the other words '+ str(int(counter_year))+' years')
+print('Or '+ str(int(counter_year))+' years')
